@@ -10,7 +10,7 @@ An image search application built using the HTML, CSS, JavaScript. This applicat
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, Javascript 
+- **Frontend**: HTML, CSS, JavaScript
 
 ## Screenshots
 
